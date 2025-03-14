@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+
+li,
+h2,
+h4
+{
+    color:white;
+}
+.fried-rice-button a{
+    color: white;
+    text-decoration: none;
+}
+
+.recipe-page-header{
+    font-size:40px;
+    font-style:italic;
+    text-decoration: underline;
+    text-align: center;
+    color: white;
+
+}
+
+.cook-book{
+    display:block;
+    margin: 0 auto;
+}
+
+.footer-label{
+    font-size:25px;
+    color:white;
+    text-decoration: none;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+}
