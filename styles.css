@@ -9,9 +9,12 @@ h4
 {
     color:white;
 }
-.fried-rice-button a{
+h3,
+h4 a{
     color: white;
     text-decoration: none;
+    display: block;
+    text-align: center;
 }
 
 .recipe-page-header{
